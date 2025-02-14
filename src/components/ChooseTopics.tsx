@@ -17,7 +17,7 @@ export function ChooseTopics() {
           <div className="flex flex-col items-center gap-2">
             <div className="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden">
               <img
-                src="./src/img/fruits.jpg"
+                src="/img/fruits.jpg"
                 alt="Fruits"
                 className="w-full h-full object-cover"
               />
@@ -34,7 +34,7 @@ export function ChooseTopics() {
           <div className="flex flex-col items-center gap-2">
             <div className="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden">
               <img
-                src="./src/img/meat.jpg"
+                src="/img/meat.jpg"
                 alt="Meat"
                 className="w-full h-full object-cover"
               />
@@ -50,7 +50,7 @@ export function ChooseTopics() {
           <div className="flex flex-col items-center gap-2">
             <div className="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden">
               <img
-                src="./src/img/healthy.jpg"
+                src="/img/healthy.jpg"
                 alt="Healthy"
                 className="w-full h-full object-cover"
               />
@@ -66,7 +66,7 @@ export function ChooseTopics() {
           <div className="flex flex-col items-center gap-2">
             <div className="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden">
               <img
-                src="./src/img/snack.avif"
+                src="/img/snack.avif"
                 alt="Snack"
                 className="w-full h-full object-cover"
               />
@@ -82,7 +82,7 @@ export function ChooseTopics() {
           <div className="flex flex-col items-center gap-2">
             <div className="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden">
               <img
-                src="./src/img/vegetable.png"
+                src="/img/vegetable.png"
                 alt="Vegetable"
                 className="w-full h-full object-cover"
               />
@@ -98,7 +98,7 @@ export function ChooseTopics() {
           <div className="flex flex-col items-center gap-2">
             <div className="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden">
               <img
-                src="./src/img/fish.jpg"
+                src="/img/fish.jpg"
                 alt="Fish"
                 className="w-full h-full object-cover"
               />
@@ -114,7 +114,7 @@ export function ChooseTopics() {
           <div className="flex flex-col items-center gap-2">
             <div className="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden">
               <img
-                src="./src/img/drink.jpg"
+                src="/img/drink.jpg"
                 alt="Drink"
                 className="w-full h-full object-cover"
               />
@@ -130,7 +130,7 @@ export function ChooseTopics() {
           <div className="flex flex-col items-center gap-2">
             <div className="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden">
               <img
-                src="./src/img/nuts.jpg"
+                src="/img/nuts.jpg"
                 alt="Nuts"
                 className="w-full h-full object-cover"
               />
@@ -146,7 +146,7 @@ export function ChooseTopics() {
           <div className="flex flex-col items-center gap-2">
             <div className="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden">
               <img
-                src="./src/img/medicine.png"
+                src="/img/medicine.png"
                 alt="Medicine"
                 className="w-full h-full object-cover"
               />
