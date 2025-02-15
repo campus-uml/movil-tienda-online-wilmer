@@ -1,6 +1,6 @@
 import { Check } from "lucide-react";
 
-export function ChooseTopics() {
+export default function ChooseTopics() {
   return (
     <div className="flex flex-col items-center justify-between min-h-screen bg-white px-6 py-4">
       <div className="w-full max-w-4xl mx-auto flex flex-col justify-between h-full gap-16 pt-12">

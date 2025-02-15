@@ -1,0 +1,448 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Testing de ChooseTopic > Debe renderizarse correctamente 1`] = `
+<body>
+  <div>
+    <div
+      class="flex flex-col items-center justify-between min-h-screen bg-white px-6 py-4"
+    >
+      <div
+        class="w-full max-w-4xl mx-auto flex flex-col justify-between h-full gap-16 pt-12"
+      >
+        <div
+          class="mt-8"
+        >
+          <h1
+            class="text-2xl sm:text-3xl font-bold text-[#1C274C] mb-2 text-center"
+          >
+            Choose Topics
+          </h1>
+          <p
+            class="text-gray-500 mb-4 text-center"
+          >
+            You can choose topics and we will suggest suitable products for you
+          </p>
+        </div>
+        <div
+          class="grid grid-cols-3 gap-6 place-content-center px-4"
+        >
+          <div
+            class="flex flex-col items-center gap-2"
+          >
+            <div
+              class="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden"
+            >
+              <img
+                alt="Fruits"
+                class="w-full h-full object-cover"
+                src="/img/fruits.jpg"
+              />
+              <div
+                class="absolute inset-0 bg-black/20"
+              />
+              <div
+                class="absolute top-2 right-2"
+              >
+                <div
+                  class="bg-white rounded-full p-1"
+                >
+                  <svg
+                    class="lucide lucide-check w-4 h-4 text-green-500"
+                    fill="none"
+                    height="24"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M20 6 9 17l-5-5"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <span
+              class="text-[#1C274C] font-medium"
+            >
+              Fruits
+            </span>
+          </div>
+          <div
+            class="flex flex-col items-center gap-2"
+          >
+            <div
+              class="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden"
+            >
+              <img
+                alt="Meat"
+                class="w-full h-full object-cover"
+                src="/img/meat.jpg"
+              />
+              <div
+                class="absolute inset-0 bg-black/20"
+              />
+              <div
+                class="absolute top-2 right-2"
+              >
+                <div
+                  class="bg-white rounded-full p-1"
+                >
+                  <svg
+                    class="lucide lucide-check w-4 h-4 text-green-500"
+                    fill="none"
+                    height="24"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M20 6 9 17l-5-5"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <span
+              class="text-[#1C274C] font-medium"
+            >
+              Meat
+            </span>
+          </div>
+          <div
+            class="flex flex-col items-center gap-2"
+          >
+            <div
+              class="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden"
+            >
+              <img
+                alt="Healthy"
+                class="w-full h-full object-cover"
+                src="/img/healthy.jpg"
+              />
+              <div
+                class="absolute inset-0 bg-black/20"
+              />
+              <div
+                class="absolute top-2 right-2"
+              >
+                <div
+                  class="bg-white rounded-full p-1"
+                >
+                  <svg
+                    class="lucide lucide-check w-4 h-4 text-green-500"
+                    fill="none"
+                    height="24"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M20 6 9 17l-5-5"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <span
+              class="text-[#1C274C] font-medium"
+            >
+              Healthy
+            </span>
+          </div>
+          <div
+            class="flex flex-col items-center gap-2"
+          >
+            <div
+              class="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden"
+            >
+              <img
+                alt="Snack"
+                class="w-full h-full object-cover"
+                src="/img/snack.avif"
+              />
+              <div
+                class="absolute inset-0 bg-black/20"
+              />
+              <div
+                class="absolute top-2 right-2"
+              >
+                <div
+                  class="bg-white rounded-full p-1"
+                >
+                  <svg
+                    class="lucide lucide-check w-4 h-4 text-green-500"
+                    fill="none"
+                    height="24"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M20 6 9 17l-5-5"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <span
+              class="text-[#1C274C] font-medium"
+            >
+              Snack
+            </span>
+          </div>
+          <div
+            class="flex flex-col items-center gap-2"
+          >
+            <div
+              class="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden"
+            >
+              <img
+                alt="Vegetable"
+                class="w-full h-full object-cover"
+                src="/img/vegetable.png"
+              />
+              <div
+                class="absolute inset-0 bg-black/20"
+              />
+              <div
+                class="absolute top-2 right-2"
+              >
+                <div
+                  class="bg-white rounded-full p-1"
+                >
+                  <svg
+                    class="lucide lucide-check w-4 h-4 text-green-500"
+                    fill="none"
+                    height="24"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M20 6 9 17l-5-5"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <span
+              class="text-[#1C274C] font-medium"
+            >
+              Vegetable
+            </span>
+          </div>
+          <div
+            class="flex flex-col items-center gap-2"
+          >
+            <div
+              class="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden"
+            >
+              <img
+                alt="Fish"
+                class="w-full h-full object-cover"
+                src="/img/fish.jpg"
+              />
+              <div
+                class="absolute inset-0 bg-black/20"
+              />
+              <div
+                class="absolute top-2 right-2"
+              >
+                <div
+                  class="bg-white rounded-full p-1"
+                >
+                  <svg
+                    class="lucide lucide-check w-4 h-4 text-green-500"
+                    fill="none"
+                    height="24"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M20 6 9 17l-5-5"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <span
+              class="text-[#1C274C] font-medium"
+            >
+              Fish
+            </span>
+          </div>
+          <div
+            class="flex flex-col items-center gap-2"
+          >
+            <div
+              class="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden"
+            >
+              <img
+                alt="Drink"
+                class="w-full h-full object-cover"
+                src="/img/drink.jpg"
+              />
+              <div
+                class="absolute inset-0 bg-black/20"
+              />
+              <div
+                class="absolute top-2 right-2"
+              >
+                <div
+                  class="bg-white rounded-full p-1"
+                >
+                  <svg
+                    class="lucide lucide-check w-4 h-4 text-green-500"
+                    fill="none"
+                    height="24"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M20 6 9 17l-5-5"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <span
+              class="text-[#1C274C] font-medium"
+            >
+              Drink
+            </span>
+          </div>
+          <div
+            class="flex flex-col items-center gap-2"
+          >
+            <div
+              class="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden"
+            >
+              <img
+                alt="Nuts"
+                class="w-full h-full object-cover"
+                src="/img/nuts.jpg"
+              />
+              <div
+                class="absolute inset-0 bg-black/20"
+              />
+              <div
+                class="absolute top-2 right-2"
+              >
+                <div
+                  class="bg-white rounded-full p-1"
+                >
+                  <svg
+                    class="lucide lucide-check w-4 h-4 text-green-500"
+                    fill="none"
+                    height="24"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M20 6 9 17l-5-5"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <span
+              class="text-[#1C274C] font-medium"
+            >
+              Nuts
+            </span>
+          </div>
+          <div
+            class="flex flex-col items-center gap-2"
+          >
+            <div
+              class="relative aspect-square rounded-2xl bg-[#F1F5F9] cursor-pointer overflow-hidden"
+            >
+              <img
+                alt="Medicine"
+                class="w-full h-full object-cover"
+                src="/img/medicine.png"
+              />
+              <div
+                class="absolute inset-0 bg-black/20"
+              />
+              <div
+                class="absolute top-2 right-2"
+              >
+                <div
+                  class="bg-white rounded-full p-1"
+                >
+                  <svg
+                    class="lucide lucide-check w-4 h-4 text-green-500"
+                    fill="none"
+                    height="24"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M20 6 9 17l-5-5"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <span
+              class="text-[#1C274C] font-medium"
+            >
+              Medicine
+            </span>
+          </div>
+        </div>
+        <div
+          class="w-full mb-8"
+        >
+          <button
+            class="w-full bg-green-500 text-white py-3 sm:py-4 rounded-2xl font-semibold text-lg"
+          >
+            Done
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
