@@ -1,7 +1,7 @@
 
   describe('Online Shopping App - ChooseTopic', () => {
   beforeEach(() => {
-    cy.visit('http://localhost:5173/choose-topics'); // Ajusta la ruta según tu configuración
+    cy.visit('http://localhost:5173/choose-topics'); 
   });
 
   it('debe mostrar el título y subtítulo de Choose Topics', () => {
